@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Logan Saliga
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+By using jQuery syntax, we were able to build a page that displayed both built-in recipes and ones we created.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to correctly utilize the JavaScript console pane to traverse the DOM.
+2. I learned about the different methods for jQuery manipulation.
+3. I learned how to independently modify HTML elements.
